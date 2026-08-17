@@ -1,8 +1,13 @@
 # RM-SAM2
 ## 🎥 Demo
-https://github.com/user-attachments/assets/6d5e38ef-fcbc-45aa-89d2-ea78cec40534
+<video controls width="400"><source src="[这里粘贴第一个视频完整URL](https://github.com/user-attachments/assets/69b84d96-2168-4e4f-9164-8f0fd2e036a3)" type="video/mp4"></video> | <video controls width="400"><source src="[这里粘贴第二个视频完整URL](https://github.com/user-attachments/assets/be9c133f-6caf-4338-b465-51366548a052)" type="video/mp4"></video> |
+
+https://github.com/user-attachments/assets/69b84d96-2168-4e4f-9164-8f0fd2e036a3
 
 
-https://github.com/user-attachments/assets/cab30189-6993-4040-a0e6-77d95631ebf3
+
+https://github.com/user-attachments/assets/be9c133f-6caf-4338-b465-51366548a052
+
+
 
 
