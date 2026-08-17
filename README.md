@@ -6,6 +6,7 @@ Memory-based trackers such as SAM2 achieve strong performance on video object se
 <p align="center">
       <img src="https://github.com/WILSON10111/RM-SAM2/blob/main/abstract.png", width=600>
 </p>
+
 ## ✨ Overview
 The overview of our proposed RM-SAM2.  
 <p align="center">
