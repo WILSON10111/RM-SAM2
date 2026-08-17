@@ -1,7 +1,7 @@
 # RM-SAM2:Reliability-Aware Memory for Remote Sensing Video
-[![Paper](https://img.shields.io/badge/Paper-TCSVT-blue)]()
-[![Dataset](https://img.shields.io/badge/Dataset-SAT--MTB--Cloudy-orange)]()
-[![Code](https://img.shields.io/badge/Code-ToBeReleased-green)]()
+[![Paper](-]()
+[![Dataset](-]()
+[![Code](-)]()
 
 
 ## ✨ Overview
