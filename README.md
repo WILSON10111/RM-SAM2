@@ -1,11 +1,11 @@
 # RM-SAM2
+## 🌏 Architecture Overview
+The overview of our proposed RefAtt-SAM.  
+<p align="center">
+      <img src="https://github.com/WILSON10111/RM-SAM2/blob/main/overview.png", width=800>
+</p>
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/69b84d96-2168-4e4f-9164-8f0fd2e036a3
-
-
-
-https://github.com/user-attachments/assets/be9c133f-6caf-4338-b465-51366548a052
 
 
 
