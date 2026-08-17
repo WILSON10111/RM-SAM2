@@ -2,7 +2,7 @@
 [![Paper](https://img.shields.io/badge/Paper--blue)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-SAT--MTB--Cloudy-orange)](#)
 ## 📝 Abstract
-Memory-based trackers such as SAM2 achieve strong performance on video object segmentation, yet they suffer from severe memory contamination in remote sensing videos caused by tiny ambiguous targets and cloud-induced target disappearance. We propose a lightweight reliability-aware memory control framework RM-SAM2 to alleviate accumulated unreliable memory and boost tracking robustness. Our approach outperforms existing SAM2-based methods on SAT-MTB and our newly proposed SAT-MTB-Cloudy benchmark with limited computational overhead.
+Memory-based trackers such as SAM2 achieve strong performance on video object segmentation, yet they suffer from severe memory contamination in remote sensing videos caused by tiny ambiguous targets and cloud-induced target disappearance. We propose a lightweight reliability-aware memory control framework RM-SAM2 to alleviate accumulated unreliable memory and boost tracking robustness. Our approach outperforms existing SAM2-based methods on SAT-MTB and our newly proposed SAT-MTB-Cloudy dataset.
 ## ✨ Overview
 The overview of our proposed RM-SAM2.  
 <p align="center">
