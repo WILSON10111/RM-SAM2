@@ -1,10 +1,5 @@
 # RM-SAM2
 ## The code will be released after paper acceptance.
 
-
-https://github.com/user-attachments/assets/be49a363-52d2-4e41-a802-b238a295e607
-
-
-
-https://github.com/user-attachments/assets/b8dade48-6cf4-4c50-89d4-beb27926f5b9
-
+## 🎥 Demo
+https://github.com/user-attachments/assets/63e33a00-06c6-4a63-a96a-261533c651db  https://github.com/user-attachments/assets/31b5ecdb-7fb5-4fd9-808c-89a56cdca6fa
