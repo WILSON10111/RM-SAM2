@@ -1,5 +1,5 @@
 # RM-SAM2
-## 🌏 Architecture Overview
+## ✨ Overview
 The overview of our proposed RM-SAM2.  
 <p align="center">
       <img src="https://github.com/WILSON10111/RM-SAM2/blob/main/overview.png", width=600>
@@ -7,6 +7,8 @@ The overview of our proposed RM-SAM2.
 
 ## 🎥 Demo
 
+
+## 🔧 Installation
 
 
 
