@@ -1,4 +1,4 @@
-# RM-SAM2:Reliability-Aware Memory for Remote Sensing Video
+# RM-SAM2:Reliability-Aware Memory for Remote Sensing Video Object Segmentation
 The code and dataset will be released upon acceptance of this paper.
 
 [![Paper](https://img.shields.io/badge/Paper--blue)](#)
